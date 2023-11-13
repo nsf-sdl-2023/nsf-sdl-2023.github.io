@@ -14,7 +14,7 @@ Note! The Monday dinner is held at the Hilton Garden Inn Atlanta Midtown, but mo
 
 
 ### Tuesday
-[GA Tech Global Learning Center, 81 4th St NW Atlanta, GA 30332](https://pe.gatech.edu/global-learning-center/directions)
+[GA Tech Global Learning Center, room 335, 81 4th St NW Atlanta, GA 30332](https://pe.gatech.edu/global-learning-center/directions)
 
 - _8:00-9:00_: Breakfast
 - _9:00_: Kickoff presentation from Ian/Tom/Nadya, explaining the goals
@@ -29,7 +29,7 @@ Thus a first goal is to collect representative examples of SDLs of different typ
 We also encourage attendees to collect insights from these examples as to what works well and less well, and to identify methods that show promise for generalization and scaling. 
 
 - _11:30-noon_: Report back
-- _12:00-13:00_: Lunch
+- _12:00-13:00_: Lunch in GLC room 156-158
   
 - _13:00-14:00_: **Theme 2: What Is the Critical Enabling Infrastructure Needed**
 
@@ -57,13 +57,13 @@ Beyond development, maintenance is key to infrastructural longevity. What are ke
 
 
 ### Wednesday
-[GA Tech Global Learning Center, 81 4th St NW Atlanta, GA 30332](https://pe.gatech.edu/global-learning-center/directions)
+[GA Tech Global Learning Center, room 335, 81 4th St NW Atlanta, GA 30332](https://pe.gatech.edu/global-learning-center/directions)
 - _8:00-9:00_: Breakfast
 - _9:00-10:00_: **Theme 4: Open Research Questions and Cross-cutting issues (with the whole group)**
   
 - _10:00-10:30_: Coffee break
 - _10:30-11:30_: Press release from the future / Outlining the road map
-- _11:30-13:00_: Working lunch / Report writing in groups / Wrap up
+- _11:30-13:00_: Working lunch / Report writing in groups / Wrap up, in GLC room 156-158
 - _13:00_: Depart
 
 
