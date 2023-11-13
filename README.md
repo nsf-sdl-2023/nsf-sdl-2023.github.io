@@ -17,7 +17,8 @@ Note! The Monday dinner is held at the Hilton Garden Inn Atlanta Midtown, but mo
 [GA Tech Global Learning Center, room 335, 81 4th St NW Atlanta, GA 30332](https://pe.gatech.edu/global-learning-center/directions)
 
 - _8:00-9:00_: Breakfast
-- _9:00_: Kickoff presentation from Ian/Tom/Nadya, explaining the goals
+- _9:00-9:10_: Opening remarks from NSF -- Nazanin Bassiri-Gharb 
+- _9:10-9:30_: Kickoff presentation from Ian/Tom/Nadya
 - _9:30-10:00_: Participant intros with 1 slide about their interest in SDLs (60 seconds each)
 - _10:00-10:30_: Coffee break
 - _10:30-11:30_: **Theme 1: Mapping Current Efforts in Self-Driving Labs**
