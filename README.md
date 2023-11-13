@@ -1,19 +1,19 @@
 # NSF SDL 2023 Workshop
 
-This invitation-only, NSF-sponsored workshop on Self-Driving Laboratories (SDLs) aims to develop a 10-year research roadmap for automation of scientific experiments. 
+This invitation-only, NSF-sponsored workshop on Self-Driving Laboratories (SDLs) aims to develop a 10-year research roadmap for automation of scientific experiments.
 
 SDLs have the potential to make new practices of science possible, accelerating scientific progress. In particular, advances in low-cost sensors, actuators, robotic systems, and control systems, have lowered the barrier to entry to laboratory automation such that fully automated labs are leaving the realm of science fiction, while advances in artificial intelligence are enabling large degrees of autonomoy. However, whereas science overall is a strongest-link problem, with the best solution pushing the field forward, SDLs are a weakest-link problem, whereby all components of the system need to function for scientists to be able to rely on them as infrastructure. Therefore, advancing SDLs requires the identification, development, dissemination, and reproduction of core infrastructural components that can be used broadly to support scientists in creating and operating self-driving laboratories. In so doing, we likely draw from best practices in data science, human-machine interaction, manufacturing and quality control, open-source ecosystems, and laboratory science methods.
 
 The workshop will bring together approximately 20 experts in the field to develop a 10-year roadmap for automation of scientific experiments. It will take place in Atlanta, Georgia, starting with dinner on the evening of November 13, and ending on November 15 at 2 PM. An NSF grant will provide travel support for participants in the workshop.
 
 ## Schedule
+Note! The Monday dinner is held at the Hilton Garden Inn Atlanta Midtown, but most participants are staying at the Sonesta Select (Atlanta Midtown Georgia Tech), at 1132 Techwood Dr NW, Atlanta, GA 30318, which is a short walk away.
 
 ### Monday
-location TBD
-- _19:00-21:00_: Kick off dinner
+- _19:00-21:00_: Kick off dinner at the Hilton Garden Inn 97 10th St NW, Atlanta, GA 30309
 
 ### Tuesday
-[GA Tech Global Learning Center](https://pe.gatech.edu/global-learning-center/directions)
+[GA Tech Global Learning Center, 81 4th St NW Atlanta, GA 30332](https://pe.gatech.edu/global-learning-center/directions)
 - _8:00-9:00_: Breakfast
 - _9:00_: Kickoff presentation from Ian/Tom/Nadya, explaining the goals
 - _9:30-10:00_: Participant intros with 1 slide about their interest in SDLs (60 seconds each)
@@ -28,10 +28,10 @@ location TBD
 - _16:00-16:30_: Report back
 - _16:30-17:30_: Theme 4: Open Research Questions
 - _17:30-18:00_: Report back
-- _19:00-21:00_: Dinner with ongoing discussion (location TBD)
+- _19:00-21:00_: Dinner with ongoing discussion (location Mayfair Renaissance 195 14th St., NE Atlanta, GA 30309)
 
 ### Wednesday
-[GA Tech Global Learning Center](https://pe.gatech.edu/global-learning-center/directions)
+[GA Tech Global Learning Center, 81 4th St NW Atlanta, GA 30332](https://pe.gatech.edu/global-learning-center/directions)
 - _8:00-9:00_: Breakfast
 - _9:00-10:00_: Cross-cutting issues with the whole group
 - _10:00-10:30_: Coffee break
@@ -41,6 +41,4 @@ location TBD
 
 ---
 
-More information will be provided soon.
-
-The workshop organizers are Ian Foster, Nadya Peek, and Tom Kurfess.
+The workshop organizers are Ian Foster (UChicago), Nadya Peek (UW), and Tom Kurfess (GATech).
