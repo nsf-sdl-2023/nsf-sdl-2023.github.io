@@ -69,4 +69,4 @@ Beyond development, maintenance is key to infrastructural longevity. What are ke
 
 
 
-The workshop organizers are Ian Foster (UChicago), Nadya Peek (UW), and Tom Kurfess (GATech).
+The workshop organizers are Ian Foster (UChicago & Argonne), Nadya Peek (UW), and Tom Kurfess (GATech).
