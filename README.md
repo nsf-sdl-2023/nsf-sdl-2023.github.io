@@ -30,7 +30,7 @@ location TBD
 - _17:30-18:00_: Report back
 - _19:00-21:00_: Dinner with ongoing discussion (location TBD)
 
-### Wedsday
+### Wednesday
 [GA Tech Global Learning Center](https://pe.gatech.edu/global-learning-center/directions)
 - _8:00-9:00_: Breakfast
 - _9:00-10:00_: Cross-cutting issues with the whole group
