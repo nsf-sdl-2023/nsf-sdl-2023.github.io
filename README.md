@@ -40,7 +40,7 @@ In this session, we would like to discuss the protocols, standards and capabilit
 How should software elements be interfaced at a system level (e.g., open source code, or at least published protocols for software interface capability).
 How should data be curated, stored, and shared in a secure and selected manner ensuring both protection and accessibility of information.
 
-- _14:00-14:30_: report back
+- _14:00-14:30_: Report back
 - _14:30-15:00_: Break
 
 - _15:00-16:00_: **Theme 3: Best Practices for Community and Sustainability**
