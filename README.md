@@ -52,9 +52,9 @@ In this session, we would like to discuss what could be done to support cross-di
 Beyond development, maintenance is key to infrastructural longevity. What are key maintenance challenges, and what can be done to support a community that faces them? What policies and strategic funding could support long term sustainability?
 
 - _16:00-16:30_: Report back
-- _16:30-18:00_: Unstructured time
+- _16:30-17:30_: Unstructured time/travel to dinner
 
-- _18:00-21:00_: Dinner with ongoing discussion (location [Mayfair Renaissance 195 14th St., NE Atlanta, GA 30309](https://maps.app.goo.gl/QEmh5yFQjRqBEtnWA))
+- _17:30-21:00_: Dinner with ongoing discussion (location [Mayfair Renaissance 195 14th St., NE Atlanta, GA 30309](https://maps.app.goo.gl/QEmh5yFQjRqBEtnWA))
 
 
 ### Wednesday
